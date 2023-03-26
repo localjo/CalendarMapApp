@@ -4,7 +4,9 @@ This is a simple app that shows a map with the location of the events in your ca
 
 The original prompt used to create the app was:
 
-> Use Expo to build a native app that reads users mobile device calendar, and shows all calendar events on a map based on the location of the event. The UI should have a control for selecting the date range of events.
+> Use Expo to build a native app that reads users' mobile device calendar, and shows all calendar events on a map based on the location of the event. The UI should have a control for selecting the date range of events.
+
+## Results:
 
 ![Screenshot](./screenshot.jpeg)
 
